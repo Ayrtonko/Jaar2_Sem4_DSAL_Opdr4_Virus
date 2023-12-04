@@ -6,7 +6,7 @@ Een algoritme om het spel Virus te spelen.
 Spelregels Virus:
 Bij het spel Virus is het de bedoeling om zoveel mogelijk vakjes met je eigen virus (Rood of Groen) te bezetten. Het spel wordt gespeeld op een rechthoek van 7 bij 7 met in twee hoeken een collectie virussen.
 
-![alt text](https://github.com/[Ayrtonko]/[Jaar2_Sem4_DSAL_Opdr4_Virus]/blob/[master]/tabelvirus.png?raw=true)
+![alt text](https://github.com/Ayrtonko/Jaar2_Sem4_DSAL_Opdr4_Virus/blob/[master]/tabelvirus.png?raw=true)
 
 Om de beurt mogen de twee spelers één van hun virussen verplaatsen. Verplaatsen kan op twee manieren:
 1.	Het virus wordt verplaatst naar een aangrenzend leeg vakje (inclusief diagonaal). Het virus wordt dan gekopieerd, oftewel, de speler heeft op het oude en het nieuwe vakje een virus.
